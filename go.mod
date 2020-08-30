@@ -1,4 +1,4 @@
-module github.com/kosin/cache
+module github.com/kkosin/cache
 
 go 1.13
 
