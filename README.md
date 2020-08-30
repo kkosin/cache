@@ -7,7 +7,7 @@
 
 Gin middleware/handler to enable Cache.
 
-## Usage
+## Usage 
 
 ### Start using it
 
